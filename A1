@@ -1,3 +1,6 @@
 This is A1
 This is A1
+<<<<<<< HEAD
 This is not A2
+=======
+>>>>>>> branch 'master' of https://github.com/tale123456789/GitTest.git
